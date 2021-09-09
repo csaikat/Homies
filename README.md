@@ -1,0 +1,2 @@
+# HOMIES- House RentalSystem
+It is a website which fills the gap between tenant and owner, from students to family man who are moving from one place to another suffers problem for accommodation for room-rent. Due to lack of networking, proper guidance, lack of information of that place or unexpected cost it creates lots of problem for a tenant. In this paper we have presented a responsive website which can resolve all the basic and daily basis problems for both tenant and owner of the property. 
